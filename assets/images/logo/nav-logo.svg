@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="85.023" viewBox="0 0 198 85.023">
+  <g id="Group_3" data-name="Group 3" transform="translate(-152 -25.977)">
+    <g id="Group_2" data-name="Group 2" transform="translate(106)">
+      <path id="Path_23" data-name="Path 23" d="M154.2,104.241" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="Path_24" data-name="Path 24" d="M159.525,25.977" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(157 26)">
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(2)" fill="gold" stroke="gold" stroke-width="1">
+          <circle cx="42.5" cy="42.5" r="42.5" stroke="none"/>
+          <circle cx="42.5" cy="42.5" r="42" fill="none"/>
+        </g>
+        <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="31.5" cy="33.5" rx="31.5" ry="33.5" transform="translate(0 9)" fill="#333"/>
+      </g>
+    </g>
+    <text id="BADAWI" transform="translate(234 88)" fill="#fff" font-size="48" font-family="TrebuchetMS, Trebuchet MS"><tspan x="-81.633" y="0">BADAWI</tspan></text>
+  </g>
+</svg>
